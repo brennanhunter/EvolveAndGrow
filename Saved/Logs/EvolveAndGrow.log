@@ -1088,3 +1088,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.11.28-17.40.49:372][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1dc43abc57d59036c5088f76450cad4c85457cf1), compiling. 
 [2024.11.28-17.40.52:054][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.11.28-17.42.44:929][  0]LogDerivedDataCache: C:/Users/brenn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.28-17.50.45:477][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 57, format PCD3D_SM6) compile time exceeded threshold (46.897s)
+[2024.11.28-17.50.50:635][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 48, format PCD3D_SM6) compile time exceeded threshold (35.595s)
+[2024.11.28-17.50.52:665][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 54, format PCD3D_SM6) compile time exceeded threshold (33.069s)
+[2024.11.28-17.51.30:780][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 50, format PCD3D_SM6) compile time exceeded threshold (32.485s)
+[2024.11.28-17.51.30:780][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 56, format PCD3D_SM6) compile time exceeded threshold (43.552s)
+[2024.11.28-17.51.30:987][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 49, format PCD3D_SM6) compile time exceeded threshold (35.464s)
+[2024.11.28-17.51.30:987][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 58, format PCD3D_SM6) compile time exceeded threshold (40.824s)
+[2024.11.28-17.51.43:912][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 52, format PCD3D_SM6) compile time exceeded threshold (75.895s)
+[2024.11.28-17.51.55:642][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 53, format PCD3D_SM6) compile time exceeded threshold (76.385s)
