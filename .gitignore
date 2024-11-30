@@ -1,0 +1,51 @@
+# Ignore user-specific and auto-generated files
+*.user
+*.userprefs
+*.suo
+*.sln
+*.VC.db
+*.VC.opendb
+*.vscode/
+
+# Build and intermediate files
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+
+# Ignore saved files, logs, and autosaves
+Saved/
+*.log
+*.tmp
+
+# Ignore compiled assets and caches
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.dmg
+*.ipa
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore Unreal Engine autosaves and backups
+*.autosave
+*.backup
+
+# Ignore crash reports
+*.dmp
+
+# Ignore debug files
+*.pid
+
+# Ignore other caches or temp data
+*.cache
+*.lock
+
+# Optional: Ignore any personal or project-specific configurations
+Config/CrashReportClient/
